@@ -8,7 +8,7 @@
   "description": "Beta version of ESPHome Hass.io add-on.",
   "hassio_api": true,
   "host_network": true,
-  "image": "esphome/esphome-hassio-{arch}",
+  "image": "zieniu31/tthome",
   "ingress": true,
   "ingress_port": 0,
   "map": [

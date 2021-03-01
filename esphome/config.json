@@ -8,7 +8,7 @@
   "description": "ESPHome Hass.io add-on for intelligently managing all your ESP8266/ESP32 devices.",
   "hassio_api": true,
   "host_network": true,
-  "image": "esphome/esphome-hassio-{arch}",
+  "image": "zieniu31/tthome",
   "ingress": true,
   "ingress_port": 0,
   "map": [
